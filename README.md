@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @atamaza28
-- 👀 I’m interested in making websites ..
-- 🌱 I’m currently learning html,css,javascript..
+- 👋 Hi, I’m @atamaza28 
 
+- Aspiring Data & Business Analyst passionate about transforming data into actionable insights.  
+
+- Skilled in data analysis, dashboarding, and storytelling to support data-driven decisions.  
+
+- Tools & Skills: Advanced Excel | Power BI | Tableau | SQL | MySQL  
+
+- Interests: Business Intelligence, Data Visualization, Reporting & Analytics  
+
+- Currently improving my analytical skills through real-world projects and case studies.  
 
 
 <!---
